@@ -1,0 +1,2 @@
+kubectl config delete-context Context_Name
+aws eks update-kubeconfig --name my_eks_cluster
